@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "home": "首页",
+    "posts": "文章",
+    "projects": "项目",
+    "about": "关于",
+    "resume": "简历"
+  },
+  "home": {
+    "greeting": "你好，我是",
+    "name": "Cathy",
+    "title": "高级前端开发工程师",
+    "bio": "8 年前端开发经验，专注于性能优化、工程化体系建设与复杂业务系统架构设计。",
+    "cta_posts": "阅读文章",
+    "cta_projects": "查看项目",
+    "featured_posts": "精选文章",
+    "featured_projects": "精选项目",
+    "view_all": "查看全部"
+  },
+  "posts": {
+    "title": "文章",
+    "subtitle": "技术实践、工程方法与架构思考",
+    "search_placeholder": "搜索文章...",
+    "all_tags": "全部",
+    "read_more": "阅读全文",
+    "reading_time": "分钟阅读",
+    "no_results": "没有找到相关文章"
+  },
+  "projects": {
+    "title": "项目",
+    "subtitle": "代表性工程实践与业务成果",
+    "tech_stack": "技术栈",
+    "view_detail": "查看详情",
+    "view_demo": "在线演示",
+    "view_source": "源码"
+  },
+  "about": {
+    "title": "关于我",
+    "bio": "8 年前端开发经验，专注于性能优化、工程化体系建设与复杂业务系统架构设计。热衷于探索前沿技术，致力于用工程化手段解决规模化问题。",
+    "skills_title": "技术能力",
+    "skills_subtitle": "核心技术栈与熟练程度",
+    "experience_title": "工作经历",
+    "experience_subtitle": "职业发展历程",
+    "contact_title": "联系方式",
+    "present": "至今",
+    "skill_categories": {
+      "frontend": "前端框架",
+      "tooling": "工程化",
+      "language": "编程语言",
+      "testing": "测试",
+      "backend": "后端 / API",
+      "devops": "DevOps"
+    }
+  },
+  "resume": {
+    "title": "简历",
+    "download": "下载 PDF",
+    "subtitle": "高级前端开发工程师"
+  },
+  "footer": {
+    "rights": "保留所有权利"
+  }
+}

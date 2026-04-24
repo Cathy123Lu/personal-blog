@@ -1,0 +1,124 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - link "Cathy" [ref=e4] [cursor=pointer]:
+        - /url: /zh
+      - generic [ref=e5]:
+        - link "首页" [ref=e6] [cursor=pointer]:
+          - /url: /zh
+        - link "文章" [ref=e7] [cursor=pointer]:
+          - /url: /zh/posts
+        - link "项目" [ref=e8] [cursor=pointer]:
+          - /url: /zh/projects
+        - link "关于" [ref=e9] [cursor=pointer]:
+          - /url: /zh/about
+        - link "简历" [ref=e10] [cursor=pointer]:
+          - /url: /zh/resume
+        - button "EN" [ref=e11] [cursor=pointer]
+  - main [ref=e12]:
+    - generic [ref=e13]:
+      - heading "关于我" [level=1] [ref=e14]
+      - paragraph [ref=e15]: 8 年前端开发经验，专注于性能优化、工程化体系建设与复杂业务系统架构设计。热衷于探索前沿技术，致力于用工程化手段解决规模化问题。
+      - generic [ref=e16]:
+        - heading "工作经历" [level=2] [ref=e17]
+        - paragraph [ref=e18]: 职业发展历程
+        - generic [ref=e21]:
+          - generic [ref=e24]:
+            - generic [ref=e25]:
+              - generic [ref=e26]: 字节跳动
+              - generic [ref=e27]: 高级前端工程师
+              - generic [ref=e28]: 2022.03 — 至今
+            - list [ref=e29]:
+              - listitem [ref=e30]:
+                - generic [ref=e31]: ·
+                - text: 主导抖音 Web 端核心功能开发，负责亿级 DAU 场景下的性能优化专项
+              - listitem [ref=e32]:
+                - generic [ref=e33]: ·
+                - text: 建立前端监控与告警体系，LCP 指标降低 40%，FID 降低 55%
+              - listitem [ref=e34]:
+                - generic [ref=e35]: ·
+                - text: 推动 Monorepo 工程化改造，统一构建链路，团队协作效率提升 30%
+              - listitem [ref=e36]:
+                - generic [ref=e37]: ·
+                - text: 参与制定前端技术规范，推进 TypeScript 全量迁移
+          - generic [ref=e40]:
+            - generic [ref=e41]:
+              - generic [ref=e42]: 美团
+              - generic [ref=e43]: 前端工程师
+              - generic [ref=e44]: 2019.07 — 2022.02
+            - list [ref=e45]:
+              - listitem [ref=e46]:
+                - generic [ref=e47]: ·
+                - text: 负责外卖 H5 核心交易链路开发，支撑大促活动高并发场景
+              - listitem [ref=e48]:
+                - generic [ref=e49]: ·
+                - text: 主导内部组件库建设，覆盖 20+ 业务团队，组件复用率提升 60%
+              - listitem [ref=e50]:
+                - generic [ref=e51]: ·
+                - text: 推进 Webpack 到 Vite 的构建工具迁移，冷启动速度提升 8 倍
+              - listitem [ref=e52]:
+                - generic [ref=e53]: ·
+                - text: 参与 BFF 层设计，优化前后端协作模式
+          - generic [ref=e56]:
+            - generic [ref=e57]:
+              - generic [ref=e58]: 网易
+              - generic [ref=e59]: 前端工程师
+              - generic [ref=e60]: 2017.07 — 2019.06
+            - list [ref=e61]:
+              - listitem [ref=e62]:
+                - generic [ref=e63]: ·
+                - text: 参与新闻客户端 Web 端核心功能开发与维护
+              - listitem [ref=e64]:
+                - generic [ref=e65]: ·
+                - text: 负责营销活动页面开发，独立完成 10+ 大型活动落地页
+              - listitem [ref=e66]:
+                - generic [ref=e67]: ·
+                - text: 引入 Vue 技术栈，推动团队从 jQuery 向现代框架迁移
+      - generic [ref=e68]:
+        - heading "技术能力" [level=2] [ref=e69]
+        - paragraph [ref=e70]: 核心技术栈与熟练程度
+        - generic [ref=e71]:
+          - generic [ref=e72]:
+            - paragraph [ref=e73]: 前端框架
+            - generic [ref=e74]:
+              - generic [ref=e76]: React
+              - generic [ref=e84]: Vue
+              - generic [ref=e92]: Next.js
+              - generic [ref=e100]: Nuxt
+          - generic [ref=e107]:
+            - paragraph [ref=e108]: 工程化
+            - generic [ref=e109]:
+              - generic [ref=e111]: Webpack
+              - generic [ref=e119]: Vite
+              - generic [ref=e127]: Rollup
+              - generic [ref=e135]: Turbopack
+          - generic [ref=e142]:
+            - paragraph [ref=e143]: 编程语言
+            - generic [ref=e144]:
+              - generic [ref=e146]: TypeScript
+              - generic [ref=e154]: JavaScript
+              - generic [ref=e162]: CSS / Sass
+              - generic [ref=e170]: Node.js
+          - generic [ref=e177]:
+            - paragraph [ref=e178]: 测试
+            - generic [ref=e179]:
+              - generic [ref=e181]: Jest
+              - generic [ref=e189]: Playwright
+              - generic [ref=e197]: Vitest
+              - generic [ref=e205]: Storybook
+          - generic [ref=e212]:
+            - paragraph [ref=e213]: 后端 / API
+            - generic [ref=e214]:
+              - generic [ref=e216]: GraphQL
+              - generic [ref=e224]: REST API
+              - generic [ref=e232]: Express
+              - generic [ref=e240]: Prisma
+          - generic [ref=e247]:
+            - paragraph [ref=e248]: DevOps
+            - generic [ref=e249]:
+              - generic [ref=e251]: Git
+              - generic [ref=e259]: CI/CD
+              - generic [ref=e267]: Docker
+              - generic [ref=e275]: Linux
+  - contentinfo [ref=e282]: © 2026 Cathy · 保留所有权利
+  - alert [ref=e283]

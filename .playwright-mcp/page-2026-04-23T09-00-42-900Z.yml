@@ -1,0 +1,135 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - link "Cathy" [ref=e4] [cursor=pointer]:
+        - /url: /en
+      - generic [ref=e5]:
+        - link "Home" [ref=e6] [cursor=pointer]:
+          - /url: /en
+        - link "Posts" [ref=e7] [cursor=pointer]:
+          - /url: /en/posts
+        - link "Projects" [ref=e8] [cursor=pointer]:
+          - /url: /en/projects
+        - link "About" [ref=e9] [cursor=pointer]:
+          - /url: /en/about
+        - link "Resume" [ref=e10] [cursor=pointer]:
+          - /url: /en/resume
+        - button "中文" [ref=e11] [cursor=pointer]
+  - main [ref=e12]:
+    - generic [ref=e13]:
+      - heading "About" [level=1] [ref=e14]
+      - paragraph [ref=e15]: 8 years of frontend experience, focused on performance optimization, engineering systems, and complex business architecture. Passionate about cutting-edge tech and solving scale problems through engineering.
+      - generic [ref=e16]:
+        - heading "Experience" [level=2] [ref=e17]
+        - paragraph [ref=e18]: Career journey
+        - generic [ref=e21]:
+          - generic [ref=e24]:
+            - generic [ref=e25]:
+              - generic [ref=e26]: ByteDance
+              - generic [ref=e27]: Senior Frontend Engineer
+              - generic [ref=e28]: 2022.03 — Present
+            - list [ref=e29]:
+              - listitem [ref=e30]:
+                - generic [ref=e31]: ·
+                - text: Led core feature development for TikTok Web, driving performance optimization at 100M+ DAU scale
+              - listitem [ref=e32]:
+                - generic [ref=e33]: ·
+                - text: Built frontend monitoring and alerting system, reducing LCP by 40% and FID by 55%
+              - listitem [ref=e34]:
+                - generic [ref=e35]: ·
+                - text: Drove Monorepo migration to unify build pipelines, improving team collaboration efficiency by 30%
+              - listitem [ref=e36]:
+                - generic [ref=e37]: ·
+                - text: Established frontend coding standards and led full TypeScript migration
+          - generic [ref=e40]:
+            - generic [ref=e41]:
+              - generic [ref=e42]: Meituan
+              - generic [ref=e43]: Frontend Engineer
+              - generic [ref=e44]: 2019.07 — 2022.02
+            - list [ref=e45]:
+              - listitem [ref=e46]:
+                - generic [ref=e47]: ·
+                - text: Developed core transaction flows for the food delivery H5 app, supporting high-concurrency promotions
+              - listitem [ref=e48]:
+                - generic [ref=e49]: ·
+                - text: Led internal component library covering 20+ business teams, boosting reuse rate by 60%
+              - listitem [ref=e50]:
+                - generic [ref=e51]: ·
+                - text: Migrated build tooling from Webpack to Vite, achieving 8× faster cold starts
+              - listitem [ref=e52]:
+                - generic [ref=e53]: ·
+                - text: Participated in BFF layer design to improve frontend-backend collaboration
+          - generic [ref=e56]:
+            - generic [ref=e57]:
+              - generic [ref=e58]: NetEase
+              - generic [ref=e59]: Frontend Engineer
+              - generic [ref=e60]: 2017.07 — 2019.06
+            - list [ref=e61]:
+              - listitem [ref=e62]:
+                - generic [ref=e63]: ·
+                - text: Developed and maintained core features for the NetEase News web client
+              - listitem [ref=e64]:
+                - generic [ref=e65]: ·
+                - text: Independently delivered 10+ large-scale marketing campaign landing pages
+              - listitem [ref=e66]:
+                - generic [ref=e67]: ·
+                - text: Introduced Vue.js and led team migration from jQuery to modern frameworks
+      - generic [ref=e68]:
+        - heading "Skills" [level=2] [ref=e69]
+        - paragraph [ref=e70]: Core tech stack and proficiency
+        - generic [ref=e71]:
+          - generic [ref=e72]:
+            - paragraph [ref=e73]: Frontend
+            - generic [ref=e74]:
+              - generic [ref=e76]: React
+              - generic [ref=e84]: Vue
+              - generic [ref=e92]: Next.js
+              - generic [ref=e100]: Nuxt
+          - generic [ref=e107]:
+            - paragraph [ref=e108]: Tooling
+            - generic [ref=e109]:
+              - generic [ref=e111]: Webpack
+              - generic [ref=e119]: Vite
+              - generic [ref=e127]: Rollup
+              - generic [ref=e135]: Turbopack
+          - generic [ref=e142]:
+            - paragraph [ref=e143]: Languages
+            - generic [ref=e144]:
+              - generic [ref=e146]: TypeScript
+              - generic [ref=e154]: JavaScript
+              - generic [ref=e162]: CSS / Sass
+              - generic [ref=e170]: Node.js
+          - generic [ref=e177]:
+            - paragraph [ref=e178]: Testing
+            - generic [ref=e179]:
+              - generic [ref=e181]: Jest
+              - generic [ref=e189]: Playwright
+              - generic [ref=e197]: Vitest
+              - generic [ref=e205]: Storybook
+          - generic [ref=e212]:
+            - paragraph [ref=e213]: Backend / API
+            - generic [ref=e214]:
+              - generic [ref=e216]: GraphQL
+              - generic [ref=e224]: REST API
+              - generic [ref=e232]: Express
+              - generic [ref=e240]: Prisma
+          - generic [ref=e247]:
+            - paragraph [ref=e248]: DevOps
+            - generic [ref=e249]:
+              - generic [ref=e251]: Git
+              - generic [ref=e259]: CI/CD
+              - generic [ref=e267]: Docker
+              - generic [ref=e275]: Linux
+  - contentinfo [ref=e282]: © 2026 Cathy · All rights reserved
+  - generic [ref=e287] [cursor=pointer]:
+    - button "Open Next.js Dev Tools" [ref=e288]:
+      - img [ref=e289]
+    - generic [ref=e292]:
+      - button "Open issues overlay" [ref=e293]:
+        - generic [ref=e294]:
+          - generic [ref=e295]: "0"
+          - generic [ref=e296]: "1"
+        - generic [ref=e297]: Issue
+      - button "Collapse issues badge" [ref=e298]:
+        - img [ref=e299]
+  - alert [ref=e301]

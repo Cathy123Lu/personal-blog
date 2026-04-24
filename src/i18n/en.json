@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "home": "Home",
+    "posts": "Posts",
+    "projects": "Projects",
+    "about": "About",
+    "resume": "Resume"
+  },
+  "home": {
+    "greeting": "Hi, I'm",
+    "name": "Cathy",
+    "title": "Senior Frontend Engineer",
+    "bio": "8 years of frontend experience, focused on performance optimization, engineering systems, and complex business architecture.",
+    "cta_posts": "Read Posts",
+    "cta_projects": "View Projects",
+    "featured_posts": "Featured Posts",
+    "featured_projects": "Featured Projects",
+    "view_all": "View All"
+  },
+  "posts": {
+    "title": "Posts",
+    "subtitle": "Technical practices, engineering methods and architecture thinking",
+    "search_placeholder": "Search posts...",
+    "all_tags": "All",
+    "read_more": "Read More",
+    "reading_time": "min read",
+    "no_results": "No posts found"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Representative engineering practices and business outcomes",
+    "tech_stack": "Tech Stack",
+    "view_detail": "View Detail",
+    "view_demo": "Live Demo",
+    "view_source": "Source"
+  },
+  "about": {
+    "title": "About",
+    "bio": "8 years of frontend experience, focused on performance optimization, engineering systems, and complex business architecture. Passionate about cutting-edge tech and solving scale problems through engineering.",
+    "skills_title": "Skills",
+    "skills_subtitle": "Core tech stack and proficiency",
+    "experience_title": "Experience",
+    "experience_subtitle": "Career journey",
+    "contact_title": "Contact",
+    "present": "Present",
+    "skill_categories": {
+      "frontend": "Frontend",
+      "tooling": "Tooling",
+      "language": "Languages",
+      "testing": "Testing",
+      "backend": "Backend / API",
+      "devops": "DevOps"
+    }
+  },
+  "resume": {
+    "title": "Resume",
+    "download": "Download PDF",
+    "subtitle": "Senior Frontend Engineer"
+  },
+  "footer": {
+    "rights": "All rights reserved"
+  }
+}
