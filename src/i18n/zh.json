@@ -9,7 +9,7 @@
   "home": {
     "greeting": "你好，我是",
     "name": "Cathy",
-    "title": "高级前端开发工程师",
+    "title": "全栈开发工程师",
     "bio": "8 年前端开发经验，专注于性能优化、工程化体系建设与复杂业务系统架构设计。",
     "cta_posts": "阅读文章",
     "cta_projects": "查看项目",
@@ -36,18 +36,15 @@
   },
   "about": {
     "title": "关于我",
-    "bio": "8 年前端开发经验，专注于性能优化、工程化体系建设与复杂业务系统架构设计。热衷于探索前沿技术，致力于用工程化手段解决规模化问题。",
+    "bio": "Talk is cheap, show me the code.\n\n8 年前端开发经验，正在向全栈 + AI 应用开发方向演进。这个网站本身就是我的作品集——技术文章、AI 工具、开源项目，持续更新中。",
     "skills_title": "技术能力",
     "skills_subtitle": "核心技术栈与熟练程度",
-    "experience_title": "工作经历",
-    "experience_subtitle": "职业发展历程",
     "contact_title": "联系方式",
-    "present": "至今",
     "skill_categories": {
       "frontend": "前端框架",
       "tooling": "工程化",
       "language": "编程语言",
-      "testing": "测试",
+      "ai": "AI / LLM",
       "backend": "后端 / API",
       "devops": "DevOps"
     }
@@ -55,7 +52,7 @@
   "resume": {
     "title": "简历",
     "download": "下载 PDF",
-    "subtitle": "高级前端开发工程师"
+    "subtitle": "全栈开发工程师"
   },
   "footer": {
     "rights": "保留所有权利"

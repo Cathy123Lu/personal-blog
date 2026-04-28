@@ -9,7 +9,7 @@
   "home": {
     "greeting": "Hi, I'm",
     "name": "Cathy",
-    "title": "Senior Frontend Engineer",
+    "title": "Full Stack Developer",
     "bio": "8 years of frontend experience, focused on performance optimization, engineering systems, and complex business architecture.",
     "cta_posts": "Read Posts",
     "cta_projects": "View Projects",
@@ -36,18 +36,15 @@
   },
   "about": {
     "title": "About",
-    "bio": "8 years of frontend experience, focused on performance optimization, engineering systems, and complex business architecture. Passionate about cutting-edge tech and solving scale problems through engineering.",
+    "bio": "Talk is cheap, show me the code.\n\n8 years of frontend experience, evolving toward full-stack and AI application development. This site is my portfolio — technical posts, AI tools, and open-source projects, continuously updated.",
     "skills_title": "Skills",
     "skills_subtitle": "Core tech stack and proficiency",
-    "experience_title": "Experience",
-    "experience_subtitle": "Career journey",
     "contact_title": "Contact",
-    "present": "Present",
     "skill_categories": {
       "frontend": "Frontend",
       "tooling": "Tooling",
       "language": "Languages",
-      "testing": "Testing",
+      "ai": "AI / LLM",
       "backend": "Backend / API",
       "devops": "DevOps"
     }
@@ -55,7 +52,7 @@
   "resume": {
     "title": "Resume",
     "download": "Download PDF",
-    "subtitle": "Senior Frontend Engineer"
+    "subtitle": "Full Stack Developer"
   },
   "footer": {
     "rights": "All rights reserved"
